@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Deployment target: staging
-=======
-Deployment target: production
->>>>>>> branch-b
+Deployment target: staging (production after approval)
