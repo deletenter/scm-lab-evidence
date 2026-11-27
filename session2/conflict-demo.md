@@ -1,1 +1,1 @@
-Deployment target: TBD (delayed)
+Deployment target: staging
